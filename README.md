@@ -2,7 +2,7 @@
 
 ![PDF to Podcast Pipeline](assets/podcastbanner.jpeg)
 
-A comprehensive pipeline for converting PDF documents into engaging podcast content using AI. This project uses Featherless.ai's API to transform technical content into natural-sounding conversations, complete with text-to-speech generation. This series of notebooks was inspired by the [Llama Cookbook](https://github.com/meta-llama/llama-cookbook)
+A comprehensive pipeline for converting PDF documents into engaging podcast content using AI. This project uses Featherless.ai's API to transform technical content into natural-sounding conversations, complete with text-to-speech generation. This series of notebooks was inspired by the [Llama Cookbook](https://github.com/meta-llama/llama-cookbook).
 
 ## Pipeline Overview
 
