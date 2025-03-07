@@ -1,4 +1,4 @@
-# PDF to Podcast Pipeline
+# PDF to Podcast pipeline with Open-models
 
 ![PDF to Podcast Pipeline](assets/podcastbanner.jpeg)
 
