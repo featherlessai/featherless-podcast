@@ -90,6 +90,9 @@ MIT License
 - [Kokoro](https://github.com/hexgrad/kokoro) for TTS capabilities
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF) for PDF processing
 
-## Contributing
-
-Contributions welcome! Please read the contributing guidelines before submitting pull requests.
+## Community & Support
+Our growing community of developers, enthusiasts, and AI practitioners is here to help you get the most out of Featherless:
+- Join our [Discord](https://discord.gg/7gybCMPjVA) community to connect with other users
+- Share your experiences with us!
+- Follow us on [X](https://x.com/FeatherlessAI)(@FeatherlessAI) for the latest updates
+- Try out [DeepSeek-R1](https://featherless.ai/blog/deepseek-r1-available-for-premium-users) with unlimited tokens on our premium plan!
