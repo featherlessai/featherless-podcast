@@ -1,4 +1,4 @@
-# PDF to Podcast pipeline with Open-models
+# PDF to Podcast pipeline with Open-models - powered by [Featherless.ai](https://featherless.ai)
 
 ![PDF to Podcast Pipeline](assets/podcastbanner.jpeg)
 
@@ -39,7 +39,7 @@ The process consists of four main stages, each handled by a separate notebook:
 - Torch/Torchaudio
 - Kokoro TTS
 - FFmpeg (for audio processing)
-- Featherless.ai API key
+- [Featherless.ai](https://featherless.ai) API key
 
 ## Installation
 
@@ -47,7 +47,7 @@ The process consists of four main stages, each handled by a separate notebook:
 2. Install required packages:
 pip install PyPDF2 rich ipywidgets pymupdf4llm torch torchaudio pydub soundfile kokoro>=0.7.11
 
-3. Set up your Featherless.ai API key in the configuration cells
+3. Set up your [Featherless.ai](https://featherless.ai) API key in the configuration cells
 
 ## Usage
 
